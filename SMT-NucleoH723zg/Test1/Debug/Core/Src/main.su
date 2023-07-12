@@ -1,0 +1,13 @@
+../Core/Src/main.c:91:6:sendStruct	144	static
+../Core/Src/main.c:125:5:main	32	static
+../Core/Src/main.c:197:6:SystemClock_Config	120	static
+../Core/Src/main.c:257:13:MX_ETH_Init	8	static
+../Core/Src/main.c:306:13:MX_TIM1_Init	40	static
+../Core/Src/main.c:353:13:MX_TIM3_Init	40	static
+../Core/Src/main.c:398:13:MX_TIM4_Init	40	static
+../Core/Src/main.c:443:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:491:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:539:13:MX_USB_OTG_HS_USB_Init	4	static
+../Core/Src/main.c:560:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:636:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:653:6:Error_Handler	4	static,ignoring_inline_asm

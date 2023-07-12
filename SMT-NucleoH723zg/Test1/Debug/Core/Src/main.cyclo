@@ -1,0 +1,13 @@
+main.c:91:6:sendStruct	2
+main.c:125:5:main	2
+main.c:197:6:SystemClock_Config	4
+main.c:257:13:MX_ETH_Init	2
+main.c:306:13:MX_TIM1_Init	4
+main.c:353:13:MX_TIM3_Init	4
+main.c:398:13:MX_TIM4_Init	4
+main.c:443:13:MX_USART1_UART_Init	5
+main.c:491:13:MX_USART3_UART_Init	5
+main.c:539:13:MX_USB_OTG_HS_USB_Init	1
+main.c:560:13:MX_GPIO_Init	1
+main.c:636:6:HAL_TIM_PeriodElapsedCallback	3
+main.c:653:6:Error_Handler	1
